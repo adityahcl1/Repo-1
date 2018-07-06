@@ -3,6 +3,6 @@ This is the second line i have added to the file
 
 ** This is the line for DEV 
 ##### The below lines will be merged with qa 
- - apple 
+ - orange 
  - orange
 
