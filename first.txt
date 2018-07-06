@@ -1,11 +1,4 @@
 this is the file named first.txt 
 This is the second line i have added to the file 
 
-
-###  Adding the below lines to check how the git merge works
-
-1. Merge-1 :- will be  merged and commited : - This is the line i have added that will be reflected after megin
-
-
-
-2. This line has been added while it is in qa branch 
+** This is the line for QA 
