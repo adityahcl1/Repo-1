@@ -1,2 +1,2 @@
-This is the first file i have created in the repository
+This line has been modified for merging
 This is the second line added
